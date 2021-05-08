@@ -1,9 +1,0 @@
-Co zostawiamy:
-- HomeTeam = Home Team | AwayTeam = Away Team
-- FTHG and HG = Full Time Home Team Goals | FTAG and AG = Full Time Away Team Goals
-- FTR and Res = Full Time Result (H=Home Win, D=Draw, A=Away Win)
-- B365H = Bet365 home win odds | B365D = Bet365 draw odds | B365A = Bet365 away win odds
-- B365>2.5 = Bet365 over 2.5 goals | B365<2.5 = Bet365 under 2.5 goals
-// BbAv>2.5 | BbAv<2.5
-Nie ma AG, Res, HG
--- wartość zespołu
