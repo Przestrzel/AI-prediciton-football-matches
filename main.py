@@ -1,3 +1,3 @@
 # The main part
 
-print("Heh")
+print("Main")
