@@ -1,3 +1,3 @@
 # The main part
 
-print("Main")
+print("Main \n test")
