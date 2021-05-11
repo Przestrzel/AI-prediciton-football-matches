@@ -13,7 +13,7 @@ def prepare_data():
         season_matches = pd.read_csv('Raw Results\\resultsSezon'+season_string+'.csv')
 
         # we had to split this because column names for betting are diffrent from 2019
-        cutInfo = season_matches[['HomeTeam','AwayTeam','FTHG','FTAG','FTR','B365H','B365D','B365A','BbAv>2.5','BbAv<2.5']]
+        cutInfo = season_matches[['HomeTeam','AwayTeam','FTR','B365H','BbAv>2.5']]
         cutInfo['Season'] = season_string
         
         cutInfo.to_csv('Specified Results\\specInfoSezon'+ season_string +'.csv', index=False)
