@@ -1,0 +1,4 @@
+- wyrzucic:
+    sezon
+- dodac:
+    roznica budzetow skladow

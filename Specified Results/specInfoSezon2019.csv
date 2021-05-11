@@ -1,381 +1,381 @@
-HomeTeam,AwayTeam,FTHG,FTAG,FTR,B365H,B365D,B365A,BbAv>2.5,BbAv<2.5,Season
-Liverpool,Norwich,4,1,H,1.14,10.0,19.0,1.41,2.92,2019
-West Ham,Man City,0,5,A,12.0,6.5,1.22,1.48,2.65,2019
-Bournemouth,Sheffield United,1,1,D,1.95,3.6,3.6,1.9,1.93,2019
-Burnley,Southampton,3,0,H,2.62,3.2,2.75,2.12,1.73,2019
-Crystal Palace,Everton,0,0,D,3.0,3.25,2.37,2.18,1.7,2019
-Watford,Brighton,0,3,A,1.9,3.4,4.0,2.16,1.71,2019
-Tottenham,Aston Villa,3,1,H,1.3,5.25,10.0,1.65,2.26,2019
-Leicester,Wolves,0,0,D,2.2,3.2,3.4,2.17,1.7,2019
-Newcastle,Arsenal,0,1,A,4.5,3.75,1.72,1.77,2.07,2019
-Man United,Chelsea,4,0,H,2.1,3.3,3.5,2.01,1.83,2019
-Arsenal,Burnley,2,1,H,1.3,5.5,10.0,1.6,2.34,2019
-Aston Villa,Bournemouth,1,2,A,2.3,3.4,3.1,1.81,2.03,2019
-Brighton,West Ham,1,1,D,2.55,3.25,2.87,1.95,1.87,2019
-Everton,Watford,1,0,H,1.72,3.8,4.75,1.79,2.05,2019
-Norwich,Newcastle,3,1,H,2.25,3.3,3.3,1.95,1.88,2019
-Southampton,Liverpool,1,2,A,6.5,4.75,1.44,1.64,2.28,2019
-Man City,Tottenham,2,2,D,1.36,5.25,8.0,1.52,2.55,2019
-Sheffield United,Crystal Palace,1,0,H,2.55,3.1,2.9,2.37,1.6,2019
-Chelsea,Leicester,1,1,D,1.7,3.75,5.0,1.96,1.86,2019
-Wolves,Man United,1,1,D,3.3,3.3,2.25,2.12,1.74,2019
-Aston Villa,Everton,2,0,H,3.25,3.5,2.15,1.79,2.05,2019
-Norwich,Chelsea,2,3,A,4.33,3.75,1.8,1.56,2.44,2019
-Brighton,Southampton,0,2,A,2.4,3.3,3.0,2.1,1.75,2019
-Man United,Crystal Palace,1,2,A,1.33,5.25,9.0,1.76,2.09,2019
-Sheffield United,Leicester,1,2,A,3.3,3.3,2.25,2.3,1.63,2019
-Watford,West Ham,1,3,A,2.05,3.5,3.5,1.73,2.13,2019
-Liverpool,Arsenal,3,1,H,1.5,4.6,6.0,1.44,2.79,2019
-Bournemouth,Man City,1,3,A,15.0,7.5,1.16,1.37,3.08,2019
-Tottenham,Newcastle,0,1,A,1.2,6.5,14.0,1.55,2.47,2019
-Wolves,Burnley,1,1,D,1.85,3.4,4.5,2.29,1.63,2019
-Southampton,Man United,1,1,D,3.8,3.3,2.05,1.9,1.94,2019
-Chelsea,Sheffield United,2,2,D,1.36,4.75,9.0,1.73,2.13,2019
-Crystal Palace,Aston Villa,1,0,H,2.15,3.3,3.5,1.97,1.86,2019
-Leicester,Bournemouth,3,1,H,1.7,4.0,4.75,1.65,2.26,2019
-Man City,Brighton,4,0,H,1.08,10.0,26.0,1.3,3.53,2019
-Newcastle,Watford,1,1,D,2.5,3.25,2.87,2.08,1.77,2019
-West Ham,Norwich,2,0,H,1.85,3.9,3.9,1.48,2.64,2019
-Burnley,Liverpool,0,3,A,9.5,5.5,1.3,1.61,2.33,2019
-Everton,Wolves,3,2,H,2.2,3.25,3.5,2.25,1.66,2019
-Arsenal,Tottenham,2,2,D,2.37,3.6,2.8,1.57,2.4,2019
-Liverpool,Newcastle,3,1,H,1.14,8.5,17.0,1.42,2.89,2019
-Brighton,Burnley,1,1,D,2.15,3.3,3.5,2.09,1.76,2019
-Man United,Leicester,1,0,H,1.95,3.5,4.0,1.85,1.98,2019
-Sheffield United,Southampton,0,1,A,2.45,3.2,3.0,2.18,1.7,2019
-Tottenham,Crystal Palace,4,0,H,1.36,5.25,8.0,1.64,2.28,2019
-Wolves,Chelsea,2,5,A,2.9,3.3,2.5,1.97,1.86,2019
-Norwich,Man City,3,2,H,15.0,9.0,1.14,1.23,4.15,2019
-Bournemouth,Everton,3,1,H,2.9,3.5,2.4,1.75,2.1,2019
-Watford,Arsenal,2,2,D,3.6,3.6,2.0,1.57,2.41,2019
-Aston Villa,West Ham,0,0,D,2.62,3.5,2.6,1.62,2.31,2019
-Southampton,Bournemouth,1,3,A,2.05,3.6,3.5,1.69,2.21,2019
-Leicester,Tottenham,2,1,H,2.87,3.5,2.37,1.79,2.04,2019
-Burnley,Norwich,2,0,H,2.0,3.8,3.5,1.67,2.22,2019
-Everton,Sheffield United,0,2,A,1.61,3.75,6.0,2.03,1.81,2019
-Man City,Watford,8,0,H,1.1,11.0,21.0,1.25,3.91,2019
-Newcastle,Brighton,0,0,D,2.5,3.2,3.0,2.35,1.61,2019
-Crystal Palace,Wolves,1,1,D,2.62,3.1,2.87,2.37,1.59,2019
-West Ham,Man United,2,0,H,3.1,3.6,2.2,1.69,2.2,2019
-Arsenal,Aston Villa,3,2,H,1.4,4.75,8.0,1.45,2.77,2019
-Chelsea,Liverpool,1,2,A,3.5,3.75,2.0,1.59,2.37,2019
-Sheffield United,Liverpool,0,1,A,9.0,5.25,1.33,1.62,2.32,2019
-Aston Villa,Burnley,2,2,D,2.3,3.4,3.1,1.91,1.92,2019
-Bournemouth,West Ham,2,2,D,2.5,3.5,2.75,1.57,2.41,2019
-Chelsea,Brighton,2,0,H,1.4,4.75,8.0,1.65,2.27,2019
-Crystal Palace,Norwich,2,0,H,1.9,3.75,3.75,1.72,2.14,2019
-Tottenham,Southampton,2,1,H,1.4,4.75,8.0,1.61,2.35,2019
-Wolves,Watford,2,0,H,1.85,3.4,4.5,1.99,1.84,2019
-Everton,Man City,1,3,A,10.0,5.5,1.3,1.47,2.69,2019
-Leicester,Newcastle,5,0,H,1.5,4.0,7.5,2.08,1.77,2019
-Man United,Arsenal,1,1,D,2.37,3.5,2.9,1.63,2.28,2019
-Brighton,Tottenham,3,0,H,3.9,3.6,1.9,1.76,2.09,2019
-Burnley,Everton,1,0,H,2.87,3.3,2.5,2.12,1.74,2019
-Liverpool,Leicester,2,1,H,1.44,4.75,7.0,1.61,2.34,2019
-Norwich,Aston Villa,1,5,A,2.37,3.6,2.8,1.57,2.43,2019
-Watford,Sheffield United,0,0,D,2.05,3.4,3.6,2.0,1.84,2019
-West Ham,Crystal Palace,1,2,A,1.95,3.6,3.8,1.83,2.0,2019
-Arsenal,Bournemouth,1,0,H,1.44,4.75,7.0,1.35,3.2,2019
-Man City,Wolves,0,2,A,1.12,9.0,21.0,1.38,3.08,2019
-Southampton,Chelsea,1,4,A,4.0,3.8,1.85,1.7,2.18,2019
-Newcastle,Man United,1,0,H,4.5,3.5,1.85,2.16,1.71,2019
-Everton,West Ham,2,0,H,1.95,3.75,3.75,1.72,2.14,2019
-Aston Villa,Brighton,2,1,H,2.35,3.4,3.0,1.82,2.01,2019
-Bournemouth,Norwich,0,0,D,1.72,4.2,4.2,1.41,2.94,2019
-Chelsea,Newcastle,1,0,H,1.3,5.5,10.0,1.59,2.38,2019
-Leicester,Burnley,2,1,H,1.57,4.0,6.0,1.94,1.89,2019
-Tottenham,Watford,1,1,D,1.4,5.0,7.5,1.53,2.52,2019
-Wolves,Southampton,1,1,D,1.8,3.6,4.5,2.09,1.76,2019
-Crystal Palace,Man City,0,2,A,12.0,7.0,1.22,1.44,2.81,2019
-Man United,Liverpool,1,1,D,5.25,3.8,1.65,1.76,2.08,2019
-Sheffield United,Arsenal,1,0,H,3.9,3.75,1.9,1.69,2.19,2019
-Southampton,Leicester,0,9,A,3.1,3.4,2.3,2.01,1.83,2019
-Man City,Aston Villa,3,0,H,1.08,11.0,26.0,1.21,4.45,2019
-Brighton,Everton,3,2,H,2.9,3.25,2.5,2.06,1.78,2019
-Watford,Bournemouth,0,0,D,2.15,3.6,3.25,1.69,2.18,2019
-West Ham,Sheffield United,1,1,D,2.1,3.5,3.5,1.88,1.95,2019
-Burnley,Chelsea,2,4,A,4.5,4.0,1.72,1.66,2.25,2019
-Newcastle,Wolves,1,1,D,3.0,3.1,2.55,2.49,1.54,2019
-Arsenal,Crystal Palace,2,2,D,1.45,4.75,6.5,1.52,2.53,2019
-Liverpool,Tottenham,2,1,H,1.5,4.33,6.5,1.53,2.51,2019
-Norwich,Man United,1,3,A,4.33,4.0,1.75,1.67,2.22,2019
-Bournemouth,Man United,1,0,H,3.25,3.6,2.15,1.84,1.99,2019
-Arsenal,Wolves,1,1,D,1.75,3.75,4.75,1.74,2.12,2019
-Aston Villa,Liverpool,1,2,A,9.0,5.0,1.33,1.47,2.71,2019
-Brighton,Norwich,2,0,H,1.72,4.2,4.33,1.66,2.25,2019
-Man City,Southampton,2,1,H,1.07,13.0,23.0,1.22,4.27,2019
-Sheffield United,Burnley,3,0,H,2.25,3.2,3.4,2.33,1.62,2019
-West Ham,Newcastle,2,3,A,1.75,3.8,4.5,1.83,2.0,2019
-Watford,Chelsea,1,2,A,5.0,4.33,1.61,1.63,2.29,2019
-Crystal Palace,Leicester,0,2,A,3.5,3.4,2.1,2.05,1.78,2019
-Everton,Tottenham,1,1,D,2.7,3.4,2.6,1.74,2.11,2019
-Norwich,Watford,0,2,A,2.7,3.5,2.55,1.69,2.21,2019
-Chelsea,Crystal Palace,2,0,H,1.33,5.0,10.0,1.58,2.4,2019
-Burnley,West Ham,3,0,H,2.25,3.5,3.1,1.71,2.17,2019
-Newcastle,Bournemouth,2,1,H,2.55,3.25,2.8,2.07,1.77,2019
-Southampton,Everton,1,2,A,2.9,3.3,2.45,1.94,1.89,2019
-Tottenham,Sheffield United,1,1,D,1.57,4.0,6.0,1.79,2.04,2019
-Leicester,Arsenal,2,0,H,2.0,3.75,3.5,1.57,2.42,2019
-Man United,Brighton,3,1,H,1.6,3.75,6.5,2.02,1.82,2019
-Wolves,Aston Villa,2,1,H,1.9,3.5,4.2,1.87,1.96,2019
-Liverpool,Man City,3,1,H,2.5,3.6,2.62,1.63,2.3,2019
-West Ham,Tottenham,2,3,A,4.2,4.33,1.7,1.55,2.47,2019
-Arsenal,Southampton,2,2,D,1.45,4.75,6.5,1.47,2.67,2019
-Bournemouth,Wolves,1,2,A,2.75,3.3,2.6,2.02,1.81,2019
-Brighton,Leicester,0,2,A,3.75,3.5,2.0,1.89,1.93,2019
-Crystal Palace,Liverpool,1,2,A,7.5,4.75,1.4,1.67,2.22,2019
-Everton,Norwich,0,2,A,1.36,5.1,8.0,1.55,2.45,2019
-Watford,Burnley,0,3,A,2.3,3.4,3.1,2.02,1.81,2019
-Man City,Chelsea,2,1,H,1.44,5.0,6.5,1.4,2.92,2019
-Sheffield United,Man United,3,3,D,3.5,3.4,2.1,2.18,1.69,2019
-Aston Villa,Newcastle,2,0,H,2.05,3.4,3.7,1.92,1.9,2019
-Newcastle,Man City,2,2,D,13.0,8.0,1.16,1.44,2.79,2019
-Burnley,Crystal Palace,0,2,A,2.25,3.25,3.3,2.22,1.67,2019
-Chelsea,West Ham,0,1,A,1.28,6.0,9.0,1.4,2.94,2019
-Liverpool,Brighton,2,1,H,1.18,7.0,15.0,1.47,2.7,2019
-Tottenham,Bournemouth,3,2,H,1.36,5.5,7.5,1.51,2.57,2019
-Southampton,Watford,2,1,H,2.1,3.4,3.5,1.91,1.91,2019
-Norwich,Arsenal,2,2,D,4.0,4.33,1.75,1.41,2.89,2019
-Wolves,Sheffield United,1,1,D,1.9,3.5,4.2,2.3,1.63,2019
-Leicester,Everton,2,1,H,1.61,4.0,5.25,1.81,2.02,2019
-Man United,Aston Villa,2,2,D,1.45,4.5,7.0,1.69,2.18,2019
-Crystal Palace,Bournemouth,1,0,H,2.2,3.4,3.25,2.03,1.8,2019
-Burnley,Man City,1,4,A,11.0,7.0,1.22,1.48,2.68,2019
-Chelsea,Aston Villa,2,1,H,1.28,5.75,10.0,1.42,2.86,2019
-Leicester,Watford,2,0,H,1.33,5.5,8.0,1.63,2.3,2019
-Man United,Tottenham,2,1,H,2.75,3.4,2.55,1.8,2.03,2019
-Southampton,Norwich,2,1,H,1.72,4.0,4.2,1.59,2.37,2019
-Wolves,West Ham,2,0,H,1.75,3.7,4.75,1.89,1.93,2019
-Liverpool,Everton,5,2,H,1.36,5.0,8.5,1.58,2.38,2019
-Sheffield United,Newcastle,0,2,A,1.83,3.4,4.6,2.33,1.61,2019
-Arsenal,Brighton,1,2,A,1.57,4.33,5.5,1.54,2.5,2019
-Everton,Chelsea,3,1,H,3.5,3.75,2.0,1.69,2.18,2019
-Bournemouth,Liverpool,0,3,A,7.0,5.25,1.4,1.5,2.59,2019
-Tottenham,Burnley,5,0,H,1.4,4.75,8.0,1.59,2.35,2019
-Watford,Crystal Palace,0,0,D,2.37,3.3,3.1,2.05,1.78,2019
-Man City,Man United,1,2,A,1.3,5.5,10.0,1.49,2.63,2019
-Aston Villa,Leicester,1,4,A,4.33,3.8,1.8,1.62,2.31,2019
-Newcastle,Southampton,2,1,H,2.5,3.2,2.9,2.12,1.73,2019
-Norwich,Sheffield United,1,2,A,2.9,3.5,2.37,1.84,1.99,2019
-Brighton,Wolves,2,2,D,2.62,3.1,2.87,2.29,1.63,2019
-West Ham,Arsenal,1,3,A,3.3,4.0,2.0,1.44,2.78,2019
-Liverpool,Watford,2,0,H,1.16,7.5,17.0,1.39,3.01,2019
-Burnley,Newcastle,1,0,H,1.95,3.4,4.0,2.11,1.74,2019
-Chelsea,Bournemouth,0,1,A,1.25,6.0,12.0,1.4,2.94,2019
-Leicester,Norwich,1,1,D,1.22,6.5,13.0,1.43,2.83,2019
-Sheffield United,Aston Villa,2,0,H,1.85,3.75,4.2,1.81,2.02,2019
-Southampton,West Ham,0,1,A,1.9,3.8,3.8,1.61,2.33,2019
-Man United,Everton,1,1,D,1.8,3.7,4.5,1.8,2.03,2019
-Wolves,Tottenham,1,2,A,3.25,3.4,2.25,1.9,1.92,2019
-Arsenal,Man City,0,3,A,6.0,5.25,1.44,1.32,3.32,2019
-Crystal Palace,Brighton,1,1,D,2.55,3.25,2.87,2.18,1.69,2019
-Everton,Arsenal,0,0,D,2.3,3.8,2.87,1.57,2.4,2019
-Aston Villa,Southampton,1,3,A,2.4,3.6,2.8,1.62,2.31,2019
-Bournemouth,Burnley,0,1,A,2.4,3.4,2.9,1.92,1.9,2019
-Brighton,Sheffield United,0,1,A,2.2,3.25,3.5,2.11,1.73,2019
-Newcastle,Crystal Palace,1,0,H,2.37,3.1,3.25,2.44,1.56,2019
-Norwich,Wolves,1,2,A,3.75,3.8,1.9,1.79,2.04,2019
-Man City,Leicester,3,1,H,1.36,5.25,7.5,1.42,2.86,2019
-Watford,Man United,2,0,H,4.33,4.0,1.75,1.85,1.97,2019
-Tottenham,Chelsea,0,2,A,2.37,3.75,2.75,1.59,2.37,2019
-Tottenham,Brighton,2,1,H,1.53,4.33,6.0,1.6,2.35,2019
-Aston Villa,Norwich,1,0,H,2.1,3.75,3.3,1.52,2.51,2019
-Bournemouth,Arsenal,1,1,D,3.5,3.9,1.95,1.55,2.43,2019
-Chelsea,Southampton,0,2,A,1.33,5.25,9.0,1.49,2.62,2019
-Crystal Palace,West Ham,2,1,H,2.3,3.4,3.1,1.9,1.92,2019
-Everton,Burnley,1,0,H,1.7,3.75,5.0,1.93,1.89,2019
-Sheffield United,Watford,1,1,D,1.83,3.6,4.33,2.11,1.74,2019
-Man United,Newcastle,4,1,H,1.33,5.25,9.0,1.72,2.13,2019
-Leicester,Liverpool,0,4,A,3.4,3.75,2.05,1.64,2.27,2019
-Wolves,Man City,3,2,H,8.5,5.0,1.36,1.56,2.41,2019
-Brighton,Bournemouth,2,0,H,1.75,3.9,4.33,1.92,1.91,2019
-Newcastle,Everton,1,2,A,3.6,3.4,2.05,2.06,1.77,2019
-Southampton,Crystal Palace,1,1,D,1.95,3.6,3.8,2.04,1.78,2019
-Watford,Aston Villa,3,0,H,1.95,3.8,3.6,1.7,2.18,2019
-Norwich,Tottenham,2,2,D,5.0,4.0,1.66,1.6,2.35,2019
-West Ham,Leicester,1,2,A,4.0,3.9,1.83,1.61,2.32,2019
-Burnley,Man United,0,2,A,4.33,3.75,1.8,1.95,1.87,2019
-Arsenal,Chelsea,1,2,A,2.87,3.75,2.3,1.53,2.48,2019
-Liverpool,Wolves,1,0,H,1.25,5.75,12.0,1.55,2.43,2019
-Man City,Sheffield United,2,0,H,1.16,7.5,16.0,1.38,3.0,2019
-Brighton,Chelsea,1,1,D,3.6,3.6,1.95,1.7,2.15,2019
-Burnley,Aston Villa,1,2,A,1.75,3.8,4.33,1.87,1.94,2019
-Newcastle,Leicester,0,3,A,5.0,3.8,1.66,1.94,1.87,2019
-Southampton,Tottenham,1,0,H,3.3,3.5,2.1,1.66,2.23,2019
-Watford,Wolves,2,1,H,3.0,3.4,2.3,2.0,1.82,2019
-Man City,Everton,2,1,H,1.25,6.5,10.0,1.37,3.09,2019
-Norwich,Crystal Palace,1,1,D,2.5,3.4,2.75,1.88,1.94,2019
-West Ham,Bournemouth,4,0,H,1.9,3.75,3.8,1.67,2.22,2019
-Arsenal,Man United,2,0,H,2.55,3.6,2.62,1.64,2.26,2019
-Liverpool,Sheffield United,2,0,H,1.2,6.5,13.0,1.54,2.47,2019
-Sheffield United,West Ham,1,0,H,1.95,3.4,4.0,2.03,1.8,2019
-Crystal Palace,Arsenal,1,1,D,4.1,3.9,1.8,1.8,2.03,2019
-Chelsea,Burnley,3,0,H,1.28,5.5,11.0,1.66,2.24,2019
-Everton,Brighton,1,0,H,1.85,3.8,4.0,1.83,2.0,2019
-Leicester,Southampton,1,2,A,1.6,4.0,5.5,1.64,2.28,2019
-Man United,Norwich,4,0,H,1.33,5.25,8.5,1.58,2.39,2019
-Wolves,Newcastle,1,1,D,1.44,4.5,7.5,2.01,1.82,2019
-Tottenham,Liverpool,0,1,A,4.5,4.33,1.66,1.62,2.3,2019
-Bournemouth,Watford,0,3,A,2.6,3.3,2.7,1.89,1.93,2019
-Aston Villa,Man City,1,6,A,13.0,8.5,1.16,1.27,3.74,2019
-Watford,Tottenham,0,0,D,3.25,3.5,2.2,1.81,2.02,2019
-Arsenal,Sheffield United,1,1,D,1.83,3.6,4.33,1.99,1.83,2019
-Brighton,Aston Villa,1,1,D,1.66,4.0,5.0,1.65,2.26,2019
-Man City,Crystal Palace,2,2,D,1.1,11.0,19.0,1.29,3.53,2019
-Norwich,Bournemouth,1,0,H,2.2,3.5,3.25,1.79,2.04,2019
-Southampton,Wolves,2,3,A,2.4,3.4,3.0,2.02,1.8,2019
-West Ham,Everton,1,1,D,2.9,3.5,2.37,1.84,1.97,2019
-Newcastle,Chelsea,1,0,H,6.0,4.5,1.5,1.68,2.2,2019
-Burnley,Leicester,2,1,H,4.33,3.75,1.83,1.85,1.96,2019
-Liverpool,Man United,2,0,H,1.36,5.25,8.0,1.66,2.23,2019
-Aston Villa,Watford,2,1,H,2.8,3.5,2.45,1.89,1.93,2019
-Bournemouth,Brighton,3,1,H,2.87,3.4,2.45,1.98,1.85,2019
-Crystal Palace,Southampton,0,2,A,2.7,3.25,2.7,2.21,1.68,2019
-Everton,Newcastle,2,2,D,1.55,4.1,6.0,1.95,1.87,2019
-Sheffield United,Man City,0,1,A,7.0,5.0,1.4,1.6,2.36,2019
-Chelsea,Arsenal,2,2,D,1.72,3.9,4.5,1.68,2.2,2019
-Leicester,West Ham,4,1,H,1.53,4.33,6.0,1.62,2.32,2019
-Tottenham,Norwich,2,1,H,1.4,5.0,7.5,1.54,2.49,2019
-Man United,Burnley,0,2,A,1.36,4.75,9.0,1.81,2.02,2019
-Wolves,Liverpool,1,2,A,5.75,3.8,1.61,1.8,2.02,2019
-West Ham,Liverpool,0,2,A,8.5,5.5,1.33,1.56,2.44,2019
-Leicester,Chelsea,2,2,D,2.5,3.6,2.7,1.69,2.18,2019
-Bournemouth,Aston Villa,2,1,H,2.1,3.6,3.3,1.78,2.04,2019
-Crystal Palace,Sheffield United,0,1,A,3.1,3.1,2.5,2.63,1.48,2019
-Liverpool,Southampton,4,0,H,1.25,6.0,12.0,1.53,2.49,2019
-Newcastle,Norwich,0,0,D,2.2,3.4,3.3,1.99,1.83,2019
-Watford,Everton,2,3,A,2.75,3.3,2.62,2.01,1.81,2019
-West Ham,Brighton,3,3,D,2.6,3.3,2.75,1.92,1.9,2019
-Man United,Wolves,0,0,D,2.25,3.25,3.4,2.18,1.69,2019
-Burnley,Arsenal,0,0,D,3.6,3.6,2.0,1.9,1.91,2019
-Tottenham,Man City,2,0,H,5.5,4.6,1.53,1.49,2.61,2019
-Everton,Crystal Palace,3,1,H,1.61,3.8,6.0,2.09,1.75,2019
-Brighton,Watford,1,1,D,2.1,3.4,3.6,1.97,1.85,2019
-Sheffield United,Bournemouth,2,1,H,1.66,3.6,5.75,2.28,1.63,2019
-Wolves,Leicester,0,0,D,2.5,3.3,2.87,2.03,1.8,2019
-Southampton,Burnley,1,2,A,1.75,3.8,4.75,1.96,1.86,2019
-Norwich,Liverpool,0,1,A,11.0,6.25,1.25,1.51,2.56,2019
-Aston Villa,Tottenham,2,3,A,4.0,3.8,1.85,1.69,2.18,2019
-Arsenal,Newcastle,4,0,H,1.4,4.75,8.0,1.72,2.13,2019
-Chelsea,Man United,0,2,A,1.85,3.5,4.5,1.89,1.93,2019
-Man City,West Ham,2,0,H,1.12,9.5,17.0,1.23,4.04,2019
-Chelsea,Tottenham,2,1,H,1.72,4.0,4.5,1.81,2.02,2019
-Burnley,Bournemouth,3,0,H,2.1,3.3,3.7,2.23,1.66,2019
-Crystal Palace,Newcastle,1,0,H,1.95,3.4,4.2,2.51,1.53,2019
-Sheffield United,Brighton,1,1,D,1.95,3.4,4.2,2.23,1.66,2019
-Southampton,Aston Villa,2,0,H,1.61,4.33,5.0,1.59,2.37,2019
-Leicester,Man City,0,1,A,4.5,4.2,1.7,1.54,2.47,2019
-Man United,Watford,3,0,H,1.6,3.9,6.0,1.91,1.91,2019
-Wolves,Norwich,3,0,H,1.5,4.2,7.0,1.87,1.95,2019
-Arsenal,Everton,3,2,H,2.0,3.6,3.7,1.73,2.11,2019
-Liverpool,West Ham,3,2,H,1.16,8.0,15.0,1.38,3.03,2019
-Norwich,Leicester,1,0,H,4.33,4.1,1.72,1.72,2.13,2019
-Brighton,Crystal Palace,0,1,A,2.05,3.25,3.9,2.31,1.62,2019
-Bournemouth,Chelsea,2,2,D,4.75,3.8,1.72,1.8,2.03,2019
-Newcastle,Burnley,0,0,D,2.62,3.1,2.9,2.34,1.6,2019
-West Ham,Southampton,3,1,H,2.65,3.6,2.5,1.75,2.07,2019
-Watford,Liverpool,3,0,H,8.0,4.75,1.4,1.64,2.26,2019
-Everton,Man United,1,1,D,2.5,3.25,2.9,1.98,1.83,2019
-Tottenham,Wolves,2,3,A,2.45,3.2,3.0,2.22,1.66,2019
-Liverpool,Bournemouth,2,1,H,1.22,6.5,13.0,1.47,2.68,2019
-Arsenal,West Ham,1,0,H,1.57,4.4,5.5,1.6,2.35,2019
-Crystal Palace,Watford,1,0,H,2.55,3.2,2.9,2.28,1.63,2019
-Sheffield United,Norwich,1,0,H,1.65,3.75,5.75,2.06,1.77,2019
-Southampton,Newcastle,0,1,A,1.61,4.1,5.25,1.81,2.01,2019
-Wolves,Brighton,0,0,D,1.61,3.9,5.75,1.99,1.82,2019
-Burnley,Tottenham,1,1,D,2.7,3.3,2.62,2.06,1.77,2019
-Chelsea,Everton,4,0,H,1.8,3.9,4.2,1.71,2.14,2019
-Man United,Man City,2,0,H,5.0,4.33,1.6,1.66,2.22,2019
-Leicester,Aston Villa,4,0,H,1.36,5.25,8.0,1.52,2.48,2019
-Aston Villa,Sheffield United,0,0,D,3.2,3.4,2.25,2.08,1.76,2019
-Man City,Arsenal,3,0,H,1.36,5.25,7.5,1.38,3.04,2019
-Norwich,Southampton,0,3,A,2.8,3.5,2.45,1.92,1.91,2019
-Tottenham,Man United,1,1,D,3.0,3.4,2.37,1.94,1.89,2019
-Watford,Leicester,1,1,D,3.6,3.5,2.05,1.91,1.92,2019
-Brighton,Arsenal,2,1,H,3.1,3.25,2.37,1.93,1.89,2019
-West Ham,Wolves,0,2,A,3.6,3.4,2.1,2.06,1.78,2019
-Bournemouth,Crystal Palace,0,2,A,2.45,3.2,3.0,2.12,1.73,2019
-Newcastle,Sheffield United,3,0,H,3.3,3.1,2.37,2.46,1.55,2019
-Aston Villa,Chelsea,1,2,A,6.0,4.5,1.5,1.59,2.38,2019
-Everton,Liverpool,0,0,D,6.0,4.2,1.55,1.66,2.23,2019
-Man City,Burnley,5,0,H,1.12,9.0,15.0,1.32,3.35,2019
-Leicester,Brighton,0,0,D,1.6,4.0,5.75,1.95,1.88,2019
-Tottenham,West Ham,2,0,H,1.66,4.0,5.0,1.79,2.05,2019
-Man United,Sheffield United,3,0,H,1.4,4.5,8.5,2.0,1.83,2019
-Newcastle,Aston Villa,1,1,D,2.3,3.3,3.2,2.09,1.76,2019
-Norwich,Everton,0,1,A,3.9,3.6,1.9,1.82,2.01,2019
-Wolves,Bournemouth,1,0,H,1.55,4.0,6.0,2.07,1.77,2019
-Liverpool,Crystal Palace,4,0,H,1.22,6.5,13.0,1.69,2.19,2019
-Burnley,Watford,1,0,H,3.0,3.25,2.45,2.18,1.7,2019
-Southampton,Arsenal,0,2,A,2.6,3.5,2.62,1.8,2.03,2019
-Chelsea,Man City,2,1,H,4.0,4.0,1.8,1.63,2.29,2019
-Aston Villa,Wolves,0,1,A,4.6,3.7,1.75,2.08,1.76,2019
-Watford,Southampton,1,3,A,2.5,3.3,2.87,2.0,1.83,2019
-Crystal Palace,Burnley,0,1,A,2.25,3.2,3.4,2.42,1.57,2019
-Brighton,Man United,0,3,A,6.0,3.8,1.61,2.1,1.76,2019
-Arsenal,Norwich,4,0,H,1.44,4.75,7.0,1.7,2.18,2019
-Bournemouth,Newcastle,1,4,A,2.4,3.1,3.2,2.38,1.59,2019
-Everton,Leicester,2,1,H,2.5,3.3,2.9,2.08,1.76,2019
-West Ham,Chelsea,3,2,H,5.5,4.33,1.57,1.72,2.14,2019
-Sheffield United,Tottenham,3,1,H,4.2,3.4,1.95,2.15,1.71,2019
-Man City,Liverpool,4,0,H,2.05,3.9,3.3,1.57,2.42,2019
-Norwich,Brighton,0,1,A,3.3,3.4,2.2,2.08,1.77,2019
-Leicester,Crystal Palace,3,0,H,1.66,3.6,5.75,2.21,1.69,2019
-Man United,Bournemouth,5,2,H,1.16,7.5,17.0,1.53,2.54,2019
-Wolves,Arsenal,0,2,A,2.25,3.4,3.25,2.1,1.75,2019
-Chelsea,Watford,3,0,H,1.4,4.75,8.0,1.73,2.13,2019
-Burnley,Sheffield United,1,1,D,2.9,3.0,2.7,2.65,1.49,2019
-Newcastle,West Ham,2,2,D,2.6,3.3,2.75,2.0,1.82,2019
-Liverpool,Aston Villa,2,0,H,1.33,5.5,8.5,1.49,2.62,2019
-Southampton,Man City,1,0,H,8.5,6.0,1.3,1.54,2.47,2019
-Tottenham,Everton,1,0,H,2.1,3.5,3.4,1.86,1.97,2019
-Crystal Palace,Chelsea,2,3,A,8.5,4.5,1.4,1.83,2.0,2019
-Watford,Norwich,2,1,H,1.7,3.75,5.0,2.05,1.8,2019
-Arsenal,Leicester,1,1,D,2.3,3.5,3.0,1.88,1.95,2019
-Man City,Newcastle,5,0,H,1.12,9.0,21.0,1.39,3.01,2019
-Sheffield United,Wolves,1,0,H,3.8,3.2,2.1,2.69,1.47,2019
-West Ham,Burnley,0,1,A,2.0,3.4,3.9,2.06,1.78,2019
-Brighton,Liverpool,1,3,A,6.0,4.33,1.53,1.73,2.12,2019
-Bournemouth,Tottenham,0,0,D,5.25,3.8,1.66,1.73,2.12,2019
-Everton,Southampton,1,1,D,2.05,3.5,3.6,1.92,1.9,2019
-Aston Villa,Man United,0,3,A,9.0,5.25,1.33,1.65,2.25,2019
-Norwich,West Ham,0,4,A,3.75,3.75,1.95,1.83,2.01,2019
-Watford,Newcastle,2,1,H,1.8,3.6,4.5,2.06,1.78,2019
-Liverpool,Burnley,1,1,D,1.22,6.5,12.0,1.52,2.54,2019
-Sheffield United,Chelsea,3,0,H,6.0,3.8,1.6,1.98,1.85,2019
-Brighton,Man City,0,5,A,10.0,5.5,1.28,1.52,2.55,2019
-Wolves,Everton,3,0,H,2.05,3.3,3.8,2.49,1.55,2019
-Aston Villa,Crystal Palace,2,0,H,2.25,3.3,3.3,2.01,1.82,2019
-Tottenham,Arsenal,2,1,H,2.62,3.4,2.7,1.77,2.08,2019
-Bournemouth,Leicester,4,1,H,5.25,3.8,1.66,1.89,1.92,2019
-Man United,Southampton,2,2,D,1.3,5.5,10.0,1.61,2.33,2019
-Chelsea,Norwich,1,0,H,1.12,9.5,17.0,1.36,3.17,2019
-Burnley,Wolves,1,1,D,4.5,3.3,1.9,2.52,1.53,2019
-Man City,Bournemouth,2,1,H,1.14,8.5,17.0,1.29,3.65,2019
-Newcastle,Tottenham,1,3,A,4.6,3.8,1.75,1.87,1.95,2019
-Arsenal,Liverpool,2,1,H,3.8,3.8,1.9,1.58,2.41,2019
-Everton,Aston Villa,1,1,D,2.0,3.5,3.75,1.87,1.95,2019
-Leicester,Sheffield United,2,0,H,2.05,3.25,3.9,2.14,1.72,2019
-Crystal Palace,Man United,0,2,A,9.5,4.75,1.36,1.77,2.08,2019
-Southampton,Brighton,1,1,D,2.15,3.3,3.5,2.13,1.73,2019
-West Ham,Watford,3,1,H,2.4,3.0,3.3,2.03,1.8,2019
-Norwich,Burnley,0,2,A,3.2,3.4,2.25,2.05,1.78,2019
-Bournemouth,Southampton,0,2,A,2.4,3.6,2.8,1.71,2.16,2019
-Tottenham,Leicester,3,0,H,2.25,3.3,3.25,1.95,1.87,2019
-Brighton,Newcastle,0,0,D,1.9,3.4,4.33,2.12,1.73,2019
-Sheffield United,Everton,0,1,A,2.2,3.25,3.5,2.32,1.62,2019
-Wolves,Crystal Palace,2,0,H,1.5,4.0,7.5,2.29,1.64,2019
-Watford,Man City,0,4,A,8.5,5.5,1.33,1.48,2.67,2019
-Aston Villa,Arsenal,1,0,H,3.3,3.6,2.1,1.66,2.25,2019
-Man United,West Ham,1,1,D,1.22,6.5,11.0,1.47,2.68,2019
-Liverpool,Chelsea,5,3,H,2.0,3.75,3.5,1.6,2.34,2019
-Arsenal,Watford,3,2,H,1.9,3.8,3.8,1.61,2.34,2019
-Burnley,Brighton,1,2,A,2.37,3.4,3.0,1.91,1.91,2019
-Chelsea,Wolves,2,0,H,1.85,3.8,4.0,1.9,1.92,2019
-Crystal Palace,Tottenham,1,1,D,6.0,4.2,1.55,1.76,2.08,2019
-Everton,Bournemouth,1,3,A,2.25,3.7,3.0,1.58,2.39,2019
-Leicester,Man United,0,2,A,3.25,3.5,2.2,1.85,1.99,2019
-Man City,Norwich,5,0,H,1.08,11.0,26.0,1.21,4.36,2019
-Newcastle,Liverpool,1,3,A,7.5,5.25,1.36,1.54,2.49,2019
-Southampton,Sheffield United,3,1,H,2.15,3.5,3.3,1.87,1.95,2019
-West Ham,Aston Villa,1,1,D,3.0,3.6,2.3,1.66,2.24,2019
+HomeTeam,AwayTeam,FTR,B365H,BbAv>2.5,Season
+Liverpool,Norwich,H,1.14,1.41,2019
+West Ham,Man City,A,12.0,1.48,2019
+Bournemouth,Sheffield United,D,1.95,1.9,2019
+Burnley,Southampton,H,2.62,2.12,2019
+Crystal Palace,Everton,D,3.0,2.18,2019
+Watford,Brighton,A,1.9,2.16,2019
+Tottenham,Aston Villa,H,1.3,1.65,2019
+Leicester,Wolves,D,2.2,2.17,2019
+Newcastle,Arsenal,A,4.5,1.77,2019
+Man United,Chelsea,H,2.1,2.01,2019
+Arsenal,Burnley,H,1.3,1.6,2019
+Aston Villa,Bournemouth,A,2.3,1.81,2019
+Brighton,West Ham,D,2.55,1.95,2019
+Everton,Watford,H,1.72,1.79,2019
+Norwich,Newcastle,H,2.25,1.95,2019
+Southampton,Liverpool,A,6.5,1.64,2019
+Man City,Tottenham,D,1.36,1.52,2019
+Sheffield United,Crystal Palace,H,2.55,2.37,2019
+Chelsea,Leicester,D,1.7,1.96,2019
+Wolves,Man United,D,3.3,2.12,2019
+Aston Villa,Everton,H,3.25,1.79,2019
+Norwich,Chelsea,A,4.33,1.56,2019
+Brighton,Southampton,A,2.4,2.1,2019
+Man United,Crystal Palace,A,1.33,1.76,2019
+Sheffield United,Leicester,A,3.3,2.3,2019
+Watford,West Ham,A,2.05,1.73,2019
+Liverpool,Arsenal,H,1.5,1.44,2019
+Bournemouth,Man City,A,15.0,1.37,2019
+Tottenham,Newcastle,A,1.2,1.55,2019
+Wolves,Burnley,D,1.85,2.29,2019
+Southampton,Man United,D,3.8,1.9,2019
+Chelsea,Sheffield United,D,1.36,1.73,2019
+Crystal Palace,Aston Villa,H,2.15,1.97,2019
+Leicester,Bournemouth,H,1.7,1.65,2019
+Man City,Brighton,H,1.08,1.3,2019
+Newcastle,Watford,D,2.5,2.08,2019
+West Ham,Norwich,H,1.85,1.48,2019
+Burnley,Liverpool,A,9.5,1.61,2019
+Everton,Wolves,H,2.2,2.25,2019
+Arsenal,Tottenham,D,2.37,1.57,2019
+Liverpool,Newcastle,H,1.14,1.42,2019
+Brighton,Burnley,D,2.15,2.09,2019
+Man United,Leicester,H,1.95,1.85,2019
+Sheffield United,Southampton,A,2.45,2.18,2019
+Tottenham,Crystal Palace,H,1.36,1.64,2019
+Wolves,Chelsea,A,2.9,1.97,2019
+Norwich,Man City,H,15.0,1.23,2019
+Bournemouth,Everton,H,2.9,1.75,2019
+Watford,Arsenal,D,3.6,1.57,2019
+Aston Villa,West Ham,D,2.62,1.62,2019
+Southampton,Bournemouth,A,2.05,1.69,2019
+Leicester,Tottenham,H,2.87,1.79,2019
+Burnley,Norwich,H,2.0,1.67,2019
+Everton,Sheffield United,A,1.61,2.03,2019
+Man City,Watford,H,1.1,1.25,2019
+Newcastle,Brighton,D,2.5,2.35,2019
+Crystal Palace,Wolves,D,2.62,2.37,2019
+West Ham,Man United,H,3.1,1.69,2019
+Arsenal,Aston Villa,H,1.4,1.45,2019
+Chelsea,Liverpool,A,3.5,1.59,2019
+Sheffield United,Liverpool,A,9.0,1.62,2019
+Aston Villa,Burnley,D,2.3,1.91,2019
+Bournemouth,West Ham,D,2.5,1.57,2019
+Chelsea,Brighton,H,1.4,1.65,2019
+Crystal Palace,Norwich,H,1.9,1.72,2019
+Tottenham,Southampton,H,1.4,1.61,2019
+Wolves,Watford,H,1.85,1.99,2019
+Everton,Man City,A,10.0,1.47,2019
+Leicester,Newcastle,H,1.5,2.08,2019
+Man United,Arsenal,D,2.37,1.63,2019
+Brighton,Tottenham,H,3.9,1.76,2019
+Burnley,Everton,H,2.87,2.12,2019
+Liverpool,Leicester,H,1.44,1.61,2019
+Norwich,Aston Villa,A,2.37,1.57,2019
+Watford,Sheffield United,D,2.05,2.0,2019
+West Ham,Crystal Palace,A,1.95,1.83,2019
+Arsenal,Bournemouth,H,1.44,1.35,2019
+Man City,Wolves,A,1.12,1.38,2019
+Southampton,Chelsea,A,4.0,1.7,2019
+Newcastle,Man United,H,4.5,2.16,2019
+Everton,West Ham,H,1.95,1.72,2019
+Aston Villa,Brighton,H,2.35,1.82,2019
+Bournemouth,Norwich,D,1.72,1.41,2019
+Chelsea,Newcastle,H,1.3,1.59,2019
+Leicester,Burnley,H,1.57,1.94,2019
+Tottenham,Watford,D,1.4,1.53,2019
+Wolves,Southampton,D,1.8,2.09,2019
+Crystal Palace,Man City,A,12.0,1.44,2019
+Man United,Liverpool,D,5.25,1.76,2019
+Sheffield United,Arsenal,H,3.9,1.69,2019
+Southampton,Leicester,A,3.1,2.01,2019
+Man City,Aston Villa,H,1.08,1.21,2019
+Brighton,Everton,H,2.9,2.06,2019
+Watford,Bournemouth,D,2.15,1.69,2019
+West Ham,Sheffield United,D,2.1,1.88,2019
+Burnley,Chelsea,A,4.5,1.66,2019
+Newcastle,Wolves,D,3.0,2.49,2019
+Arsenal,Crystal Palace,D,1.45,1.52,2019
+Liverpool,Tottenham,H,1.5,1.53,2019
+Norwich,Man United,A,4.33,1.67,2019
+Bournemouth,Man United,H,3.25,1.84,2019
+Arsenal,Wolves,D,1.75,1.74,2019
+Aston Villa,Liverpool,A,9.0,1.47,2019
+Brighton,Norwich,H,1.72,1.66,2019
+Man City,Southampton,H,1.07,1.22,2019
+Sheffield United,Burnley,H,2.25,2.33,2019
+West Ham,Newcastle,A,1.75,1.83,2019
+Watford,Chelsea,A,5.0,1.63,2019
+Crystal Palace,Leicester,A,3.5,2.05,2019
+Everton,Tottenham,D,2.7,1.74,2019
+Norwich,Watford,A,2.7,1.69,2019
+Chelsea,Crystal Palace,H,1.33,1.58,2019
+Burnley,West Ham,H,2.25,1.71,2019
+Newcastle,Bournemouth,H,2.55,2.07,2019
+Southampton,Everton,A,2.9,1.94,2019
+Tottenham,Sheffield United,D,1.57,1.79,2019
+Leicester,Arsenal,H,2.0,1.57,2019
+Man United,Brighton,H,1.6,2.02,2019
+Wolves,Aston Villa,H,1.9,1.87,2019
+Liverpool,Man City,H,2.5,1.63,2019
+West Ham,Tottenham,A,4.2,1.55,2019
+Arsenal,Southampton,D,1.45,1.47,2019
+Bournemouth,Wolves,A,2.75,2.02,2019
+Brighton,Leicester,A,3.75,1.89,2019
+Crystal Palace,Liverpool,A,7.5,1.67,2019
+Everton,Norwich,A,1.36,1.55,2019
+Watford,Burnley,A,2.3,2.02,2019
+Man City,Chelsea,H,1.44,1.4,2019
+Sheffield United,Man United,D,3.5,2.18,2019
+Aston Villa,Newcastle,H,2.05,1.92,2019
+Newcastle,Man City,D,13.0,1.44,2019
+Burnley,Crystal Palace,A,2.25,2.22,2019
+Chelsea,West Ham,A,1.28,1.4,2019
+Liverpool,Brighton,H,1.18,1.47,2019
+Tottenham,Bournemouth,H,1.36,1.51,2019
+Southampton,Watford,H,2.1,1.91,2019
+Norwich,Arsenal,D,4.0,1.41,2019
+Wolves,Sheffield United,D,1.9,2.3,2019
+Leicester,Everton,H,1.61,1.81,2019
+Man United,Aston Villa,D,1.45,1.69,2019
+Crystal Palace,Bournemouth,H,2.2,2.03,2019
+Burnley,Man City,A,11.0,1.48,2019
+Chelsea,Aston Villa,H,1.28,1.42,2019
+Leicester,Watford,H,1.33,1.63,2019
+Man United,Tottenham,H,2.75,1.8,2019
+Southampton,Norwich,H,1.72,1.59,2019
+Wolves,West Ham,H,1.75,1.89,2019
+Liverpool,Everton,H,1.36,1.58,2019
+Sheffield United,Newcastle,A,1.83,2.33,2019
+Arsenal,Brighton,A,1.57,1.54,2019
+Everton,Chelsea,H,3.5,1.69,2019
+Bournemouth,Liverpool,A,7.0,1.5,2019
+Tottenham,Burnley,H,1.4,1.59,2019
+Watford,Crystal Palace,D,2.37,2.05,2019
+Man City,Man United,A,1.3,1.49,2019
+Aston Villa,Leicester,A,4.33,1.62,2019
+Newcastle,Southampton,H,2.5,2.12,2019
+Norwich,Sheffield United,A,2.9,1.84,2019
+Brighton,Wolves,D,2.62,2.29,2019
+West Ham,Arsenal,A,3.3,1.44,2019
+Liverpool,Watford,H,1.16,1.39,2019
+Burnley,Newcastle,H,1.95,2.11,2019
+Chelsea,Bournemouth,A,1.25,1.4,2019
+Leicester,Norwich,D,1.22,1.43,2019
+Sheffield United,Aston Villa,H,1.85,1.81,2019
+Southampton,West Ham,A,1.9,1.61,2019
+Man United,Everton,D,1.8,1.8,2019
+Wolves,Tottenham,A,3.25,1.9,2019
+Arsenal,Man City,A,6.0,1.32,2019
+Crystal Palace,Brighton,D,2.55,2.18,2019
+Everton,Arsenal,D,2.3,1.57,2019
+Aston Villa,Southampton,A,2.4,1.62,2019
+Bournemouth,Burnley,A,2.4,1.92,2019
+Brighton,Sheffield United,A,2.2,2.11,2019
+Newcastle,Crystal Palace,H,2.37,2.44,2019
+Norwich,Wolves,A,3.75,1.79,2019
+Man City,Leicester,H,1.36,1.42,2019
+Watford,Man United,H,4.33,1.85,2019
+Tottenham,Chelsea,A,2.37,1.59,2019
+Tottenham,Brighton,H,1.53,1.6,2019
+Aston Villa,Norwich,H,2.1,1.52,2019
+Bournemouth,Arsenal,D,3.5,1.55,2019
+Chelsea,Southampton,A,1.33,1.49,2019
+Crystal Palace,West Ham,H,2.3,1.9,2019
+Everton,Burnley,H,1.7,1.93,2019
+Sheffield United,Watford,D,1.83,2.11,2019
+Man United,Newcastle,H,1.33,1.72,2019
+Leicester,Liverpool,A,3.4,1.64,2019
+Wolves,Man City,H,8.5,1.56,2019
+Brighton,Bournemouth,H,1.75,1.92,2019
+Newcastle,Everton,A,3.6,2.06,2019
+Southampton,Crystal Palace,D,1.95,2.04,2019
+Watford,Aston Villa,H,1.95,1.7,2019
+Norwich,Tottenham,D,5.0,1.6,2019
+West Ham,Leicester,A,4.0,1.61,2019
+Burnley,Man United,A,4.33,1.95,2019
+Arsenal,Chelsea,A,2.87,1.53,2019
+Liverpool,Wolves,H,1.25,1.55,2019
+Man City,Sheffield United,H,1.16,1.38,2019
+Brighton,Chelsea,D,3.6,1.7,2019
+Burnley,Aston Villa,A,1.75,1.87,2019
+Newcastle,Leicester,A,5.0,1.94,2019
+Southampton,Tottenham,H,3.3,1.66,2019
+Watford,Wolves,H,3.0,2.0,2019
+Man City,Everton,H,1.25,1.37,2019
+Norwich,Crystal Palace,D,2.5,1.88,2019
+West Ham,Bournemouth,H,1.9,1.67,2019
+Arsenal,Man United,H,2.55,1.64,2019
+Liverpool,Sheffield United,H,1.2,1.54,2019
+Sheffield United,West Ham,H,1.95,2.03,2019
+Crystal Palace,Arsenal,D,4.1,1.8,2019
+Chelsea,Burnley,H,1.28,1.66,2019
+Everton,Brighton,H,1.85,1.83,2019
+Leicester,Southampton,A,1.6,1.64,2019
+Man United,Norwich,H,1.33,1.58,2019
+Wolves,Newcastle,D,1.44,2.01,2019
+Tottenham,Liverpool,A,4.5,1.62,2019
+Bournemouth,Watford,A,2.6,1.89,2019
+Aston Villa,Man City,A,13.0,1.27,2019
+Watford,Tottenham,D,3.25,1.81,2019
+Arsenal,Sheffield United,D,1.83,1.99,2019
+Brighton,Aston Villa,D,1.66,1.65,2019
+Man City,Crystal Palace,D,1.1,1.29,2019
+Norwich,Bournemouth,H,2.2,1.79,2019
+Southampton,Wolves,A,2.4,2.02,2019
+West Ham,Everton,D,2.9,1.84,2019
+Newcastle,Chelsea,H,6.0,1.68,2019
+Burnley,Leicester,H,4.33,1.85,2019
+Liverpool,Man United,H,1.36,1.66,2019
+Aston Villa,Watford,H,2.8,1.89,2019
+Bournemouth,Brighton,H,2.87,1.98,2019
+Crystal Palace,Southampton,A,2.7,2.21,2019
+Everton,Newcastle,D,1.55,1.95,2019
+Sheffield United,Man City,A,7.0,1.6,2019
+Chelsea,Arsenal,D,1.72,1.68,2019
+Leicester,West Ham,H,1.53,1.62,2019
+Tottenham,Norwich,H,1.4,1.54,2019
+Man United,Burnley,A,1.36,1.81,2019
+Wolves,Liverpool,A,5.75,1.8,2019
+West Ham,Liverpool,A,8.5,1.56,2019
+Leicester,Chelsea,D,2.5,1.69,2019
+Bournemouth,Aston Villa,H,2.1,1.78,2019
+Crystal Palace,Sheffield United,A,3.1,2.63,2019
+Liverpool,Southampton,H,1.25,1.53,2019
+Newcastle,Norwich,D,2.2,1.99,2019
+Watford,Everton,A,2.75,2.01,2019
+West Ham,Brighton,D,2.6,1.92,2019
+Man United,Wolves,D,2.25,2.18,2019
+Burnley,Arsenal,D,3.6,1.9,2019
+Tottenham,Man City,H,5.5,1.49,2019
+Everton,Crystal Palace,H,1.61,2.09,2019
+Brighton,Watford,D,2.1,1.97,2019
+Sheffield United,Bournemouth,H,1.66,2.28,2019
+Wolves,Leicester,D,2.5,2.03,2019
+Southampton,Burnley,A,1.75,1.96,2019
+Norwich,Liverpool,A,11.0,1.51,2019
+Aston Villa,Tottenham,A,4.0,1.69,2019
+Arsenal,Newcastle,H,1.4,1.72,2019
+Chelsea,Man United,A,1.85,1.89,2019
+Man City,West Ham,H,1.12,1.23,2019
+Chelsea,Tottenham,H,1.72,1.81,2019
+Burnley,Bournemouth,H,2.1,2.23,2019
+Crystal Palace,Newcastle,H,1.95,2.51,2019
+Sheffield United,Brighton,D,1.95,2.23,2019
+Southampton,Aston Villa,H,1.61,1.59,2019
+Leicester,Man City,A,4.5,1.54,2019
+Man United,Watford,H,1.6,1.91,2019
+Wolves,Norwich,H,1.5,1.87,2019
+Arsenal,Everton,H,2.0,1.73,2019
+Liverpool,West Ham,H,1.16,1.38,2019
+Norwich,Leicester,H,4.33,1.72,2019
+Brighton,Crystal Palace,A,2.05,2.31,2019
+Bournemouth,Chelsea,D,4.75,1.8,2019
+Newcastle,Burnley,D,2.62,2.34,2019
+West Ham,Southampton,H,2.65,1.75,2019
+Watford,Liverpool,H,8.0,1.64,2019
+Everton,Man United,D,2.5,1.98,2019
+Tottenham,Wolves,A,2.45,2.22,2019
+Liverpool,Bournemouth,H,1.22,1.47,2019
+Arsenal,West Ham,H,1.57,1.6,2019
+Crystal Palace,Watford,H,2.55,2.28,2019
+Sheffield United,Norwich,H,1.65,2.06,2019
+Southampton,Newcastle,A,1.61,1.81,2019
+Wolves,Brighton,D,1.61,1.99,2019
+Burnley,Tottenham,D,2.7,2.06,2019
+Chelsea,Everton,H,1.8,1.71,2019
+Man United,Man City,H,5.0,1.66,2019
+Leicester,Aston Villa,H,1.36,1.52,2019
+Aston Villa,Sheffield United,D,3.2,2.08,2019
+Man City,Arsenal,H,1.36,1.38,2019
+Norwich,Southampton,A,2.8,1.92,2019
+Tottenham,Man United,D,3.0,1.94,2019
+Watford,Leicester,D,3.6,1.91,2019
+Brighton,Arsenal,H,3.1,1.93,2019
+West Ham,Wolves,A,3.6,2.06,2019
+Bournemouth,Crystal Palace,A,2.45,2.12,2019
+Newcastle,Sheffield United,H,3.3,2.46,2019
+Aston Villa,Chelsea,A,6.0,1.59,2019
+Everton,Liverpool,D,6.0,1.66,2019
+Man City,Burnley,H,1.12,1.32,2019
+Leicester,Brighton,D,1.6,1.95,2019
+Tottenham,West Ham,H,1.66,1.79,2019
+Man United,Sheffield United,H,1.4,2.0,2019
+Newcastle,Aston Villa,D,2.3,2.09,2019
+Norwich,Everton,A,3.9,1.82,2019
+Wolves,Bournemouth,H,1.55,2.07,2019
+Liverpool,Crystal Palace,H,1.22,1.69,2019
+Burnley,Watford,H,3.0,2.18,2019
+Southampton,Arsenal,A,2.6,1.8,2019
+Chelsea,Man City,H,4.0,1.63,2019
+Aston Villa,Wolves,A,4.6,2.08,2019
+Watford,Southampton,A,2.5,2.0,2019
+Crystal Palace,Burnley,A,2.25,2.42,2019
+Brighton,Man United,A,6.0,2.1,2019
+Arsenal,Norwich,H,1.44,1.7,2019
+Bournemouth,Newcastle,A,2.4,2.38,2019
+Everton,Leicester,H,2.5,2.08,2019
+West Ham,Chelsea,H,5.5,1.72,2019
+Sheffield United,Tottenham,H,4.2,2.15,2019
+Man City,Liverpool,H,2.05,1.57,2019
+Norwich,Brighton,A,3.3,2.08,2019
+Leicester,Crystal Palace,H,1.66,2.21,2019
+Man United,Bournemouth,H,1.16,1.53,2019
+Wolves,Arsenal,A,2.25,2.1,2019
+Chelsea,Watford,H,1.4,1.73,2019
+Burnley,Sheffield United,D,2.9,2.65,2019
+Newcastle,West Ham,D,2.6,2.0,2019
+Liverpool,Aston Villa,H,1.33,1.49,2019
+Southampton,Man City,H,8.5,1.54,2019
+Tottenham,Everton,H,2.1,1.86,2019
+Crystal Palace,Chelsea,A,8.5,1.83,2019
+Watford,Norwich,H,1.7,2.05,2019
+Arsenal,Leicester,D,2.3,1.88,2019
+Man City,Newcastle,H,1.12,1.39,2019
+Sheffield United,Wolves,H,3.8,2.69,2019
+West Ham,Burnley,A,2.0,2.06,2019
+Brighton,Liverpool,A,6.0,1.73,2019
+Bournemouth,Tottenham,D,5.25,1.73,2019
+Everton,Southampton,D,2.05,1.92,2019
+Aston Villa,Man United,A,9.0,1.65,2019
+Norwich,West Ham,A,3.75,1.83,2019
+Watford,Newcastle,H,1.8,2.06,2019
+Liverpool,Burnley,D,1.22,1.52,2019
+Sheffield United,Chelsea,H,6.0,1.98,2019
+Brighton,Man City,A,10.0,1.52,2019
+Wolves,Everton,H,2.05,2.49,2019
+Aston Villa,Crystal Palace,H,2.25,2.01,2019
+Tottenham,Arsenal,H,2.62,1.77,2019
+Bournemouth,Leicester,H,5.25,1.89,2019
+Man United,Southampton,D,1.3,1.61,2019
+Chelsea,Norwich,H,1.12,1.36,2019
+Burnley,Wolves,D,4.5,2.52,2019
+Man City,Bournemouth,H,1.14,1.29,2019
+Newcastle,Tottenham,A,4.6,1.87,2019
+Arsenal,Liverpool,H,3.8,1.58,2019
+Everton,Aston Villa,D,2.0,1.87,2019
+Leicester,Sheffield United,H,2.05,2.14,2019
+Crystal Palace,Man United,A,9.5,1.77,2019
+Southampton,Brighton,D,2.15,2.13,2019
+West Ham,Watford,H,2.4,2.03,2019
+Norwich,Burnley,A,3.2,2.05,2019
+Bournemouth,Southampton,A,2.4,1.71,2019
+Tottenham,Leicester,H,2.25,1.95,2019
+Brighton,Newcastle,D,1.9,2.12,2019
+Sheffield United,Everton,A,2.2,2.32,2019
+Wolves,Crystal Palace,H,1.5,2.29,2019
+Watford,Man City,A,8.5,1.48,2019
+Aston Villa,Arsenal,H,3.3,1.66,2019
+Man United,West Ham,D,1.22,1.47,2019
+Liverpool,Chelsea,H,2.0,1.6,2019
+Arsenal,Watford,H,1.9,1.61,2019
+Burnley,Brighton,A,2.37,1.91,2019
+Chelsea,Wolves,H,1.85,1.9,2019
+Crystal Palace,Tottenham,D,6.0,1.76,2019
+Everton,Bournemouth,A,2.25,1.58,2019
+Leicester,Man United,A,3.25,1.85,2019
+Man City,Norwich,H,1.08,1.21,2019
+Newcastle,Liverpool,A,7.5,1.54,2019
+Southampton,Sheffield United,H,2.15,1.87,2019
+West Ham,Aston Villa,D,3.0,1.66,2019
