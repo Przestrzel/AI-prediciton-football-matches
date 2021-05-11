@@ -1,0 +1,4 @@
+- wyrzucic:
+    FTHG,FTAG, B365D,B365A, BbAv<2.5,
+- dodac:
+    roznica budzetow skladow
