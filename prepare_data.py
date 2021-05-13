@@ -37,12 +37,14 @@ def count_diffrences():
     df_matches = pd.read_csv('ConcatenatedFiles.csv')
     df_matches['Diffrence'] = ""
     for ind in df_matches.index:
-        print(ind)
+        
         season = df_matches['Season'][ind]
         season_string = str(season)
         home_team = df_matches['HomeTeam'][ind]
         away_team = df_matches['AwayTeam'][ind]
         
+        print(ind, season_string, str(home_team), str(away_team))
+
         # finding home and away team values in csv with club values
         df_val = pd.read_csv('Teams Values\\valuesSezon'+season_string+'.csv')
 
@@ -52,7 +54,10 @@ def count_diffrences():
         h_val = h_val['Value [mln]']
         a_val = a_val['Value [mln]']
 
+        print("home: ", h_val, home_team)
+        print("away: ", a_val, away_team)
         diffrence = float(h_val) - float(a_val)
         df_matches['Diffrence'][ind] = diffrence
+        df_matches.to_csv("ConcatenatedFiles.csv", index=False)
         
 
