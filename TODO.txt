@@ -1,4 +1,1 @@
-- wyrzucic:
-    sezon
-- dodac:
-    roznica budzetow skladow
+-zamienic: A lub D na AD - podwyższenie jakości algorytmu
