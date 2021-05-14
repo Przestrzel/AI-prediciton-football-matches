@@ -53,7 +53,7 @@ def count_diffrences():
         a_val = a_val['Value [mln]']
 
         #df_matches['Diffrence'][ind] = float(h_val) - float(a_val)
-        df_matches['HT VAL/AT VAL'][ind] = float(h_val) / float(a_val)
+        df_matches['HT VAL/AT VAL'][ind] = round(float(h_val) / float(a_val), 2)
 
     df_matches.to_csv("ConcatenatedFiles.csv", index=False)    
         
