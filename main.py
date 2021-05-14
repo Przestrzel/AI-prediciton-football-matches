@@ -1,8 +1,9 @@
 import prepare_data as data
 import pandas as pd
+
 #data.prepare_data()
 #data.count_diffrences() 
-data.mergeAwithD()
+#data.mergeAwithD()
 
 dataset = pd.read_csv("ConcatenatedFiles.csv")
 
@@ -21,11 +22,16 @@ attributes_train, attributes_validate, labels_train, labels_validate = split(att
 #making classifier
 from sklearn.tree import DecisionTreeClassifier
 
-classifier = DecisionTreeClassifier(criterion="entropy", ccp_alpha=0.0002)
+classifier = DecisionTreeClassifier(criterion="entropy")
 
 classifier = classifier.fit(attributes_train, labels_train)
 
 labels_prediction = classifier.predict(attributes_test)
+
+#prunning
+#path = classifier.cost_complexity_pruning_path(attributes_train, labels_train)
+#alphas = path['ccp_alphas']
+#print(alphas)
 
 #Raport
 from sklearn.metrics import classification_report
