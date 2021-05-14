@@ -1,7 +1,7 @@
 -zamienic: A lub D na AD - podwyższenie jakości algorytmu
 
 - algorytm na pruning z ccp_alpha:
-    ccp_alpha start: 0.0001 skok co 0.00001 
+    ccp_alpha start: 0.001 skok co 0.00001 
     średnia z X prób dla każdego
     testujemy na zbiorze walidacyjnym
 
