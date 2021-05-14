@@ -2,6 +2,7 @@ import prepare_data as data
 import pandas as pd
 #data.prepare_data()
 #data.count_diffrences() 
+data.mergeAwithD()
 
 dataset = pd.read_csv("ConcatenatedFiles.csv")
 

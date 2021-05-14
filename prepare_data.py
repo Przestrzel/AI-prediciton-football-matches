@@ -57,4 +57,7 @@ def count_diffrences():
 
     df_matches.to_csv("ConcatenatedFiles.csv", index=False)    
         
-
+def mergeAwithD():
+    df_matches = pd.read_csv('ConcatenatedFiles.csv')
+    df_matches.replace({'FTR': 'A', 'FTR': 'D'}, 'AD')
+    df_matches.to_csv("ConcatenatedFiles.csv", index=False)    
