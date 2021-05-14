@@ -11,7 +11,7 @@ attributes = attributes.drop('HomeTeam', axis = 1)
 attributes = attributes.drop('AwayTeam', axis = 1)
 labels = dataset["FTR"]
 
-#splitting data 60:20:20
+#splitting data 60:20:20, train:validate:test
 from sklearn.model_selection import train_test_split as split
 
 attributes_train, attributes_test, labels_train, labels_test = split(attributes, labels, test_size = 0.2)
@@ -21,7 +21,7 @@ attributes_train, attributes_validate, labels_train, labels_validate = split(att
 #making classifier
 from sklearn.tree import DecisionTreeClassifier
 
-classifier = DecisionTreeClassifier(criterion="entropy", ccp_alpha=0.0001)
+classifier = DecisionTreeClassifier(criterion="entropy", ccp_alpha=0.0002)
 
 classifier = classifier.fit(attributes_train, labels_train)
 
