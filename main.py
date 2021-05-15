@@ -19,19 +19,22 @@ attributes_train, attributes_test, labels_train, labels_test = split(attributes,
 
 attributes_train, attributes_validate, labels_train, labels_validate = split(attributes_train, labels_train, test_size = 0.25)
 
+
 #making classifier
 from sklearn.tree import DecisionTreeClassifier
 
-classifier = DecisionTreeClassifier(criterion="entropy")
+classifier = DecisionTreeClassifier(criterion="entropy", ccp_alpha=0.01)
+
+#testing prunning alpha
+from prunning import find_ccp_alpha
+path = classifier.cost_complexity_pruning_path(attributes_train, labels_train)
+alphas = path['ccp_alphas']
+
+#find_ccp_alpha(alphas, attributes_train, labels_train, attributes_validate, labels_validate)
 
 classifier = classifier.fit(attributes_train, labels_train)
 
 labels_prediction = classifier.predict(attributes_test)
-
-#prunning
-#path = classifier.cost_complexity_pruning_path(attributes_train, labels_train)
-#alphas = path['ccp_alphas']
-#print(alphas)
 
 #Raport
 from sklearn.metrics import classification_report
