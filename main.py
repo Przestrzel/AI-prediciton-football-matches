@@ -17,6 +17,7 @@ attributes = attributes.drop('HomeTeam', axis = 1)
 attributes = attributes.drop('AwayTeam', axis = 1)
 attributes = attributes.drop('HT Form', axis = 1)
 attributes = attributes.drop('AT Form', axis = 1)
+attributes = attributes.drop('Season', axis = 1)
 labels = dataset["FTR"]
 
 #splitting data 60:20:20, train:validate:test
@@ -37,7 +38,7 @@ from prunning import find_ccp_alpha
 path = classifier.cost_complexity_pruning_path(attributes_train, labels_train)
 alphas = path['ccp_alphas']
 
-find_ccp_alpha(alphas, attributes_train, labels_train, attributes_validate, labels_validate)
+#find_ccp_alpha(alphas, attributes_train, labels_train, attributes_validate, labels_validate)
 
 classifier = classifier.fit(attributes_train, labels_train)
 
@@ -46,6 +47,18 @@ labels_prediction = classifier.predict(attributes_test)
 #Raport
 from sklearn.metrics import classification_report
 print(classification_report(labels_test, labels_prediction))
+
+#only to see what was wrong
+labels_test.to_csv('picked matches.csv')
+res = pd.read_csv('picked matches.csv')
+res['prediction'] = ''
+res['prediction'] = labels_prediction
+to_drop = []
+for ind in res.index:
+    if res['FTR'][ind] == res['prediction'][ind]:
+        to_drop.append(ind)
+res = res.drop(res.index[to_drop])
+res.to_csv('picked matches.csv')
 
 #Making visual tree
 #import matplotlib.pyplot as plt
