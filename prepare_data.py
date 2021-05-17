@@ -19,7 +19,7 @@ def prepare_data():
         cutInfo.to_csv('Specified Results\\specInfoSezon'+ season_string +'.csv', index=False)
 
     # splitted results to one file
-    path = r'C:\Users\marek\OneDrive\Dokumenty\GitHub\AI-prediciton-football-matches\Specified Results' #your path to project
+    path = r'C:\Users\Robert\OneDrive\Dokumenty\GitHub\AI-prediciton-football-matches\Specified Results' #your path to project
 
     all_files = glob.glob(path + "\*.csv") 
     list = []
@@ -37,7 +37,7 @@ def count_diffrences():
     df_matches = pd.read_csv('ConcatenatedFiles.csv')
     df_matches['HT VAL/AT VAL'] = ""
     for ind in df_matches.index:
-        
+        print(ind)
         season = df_matches['Season'][ind]
         season_string = str(season)
         home_team = df_matches['HomeTeam'][ind]
@@ -62,3 +62,55 @@ def mergeAwithD():
     df_matches['FTR'].replace({'A': 'AD', 'D': 'AD'}, inplace=True)
     df_matches.to_csv("ConcatenatedFiles.csv", index=False)    
     
+def countForm():
+    df_matches = pd.read_csv('ConcatenatedFiles.csv')
+    df_matches['HT Form'] = ''
+    df_matches['AT Form'] = ''
+    df_matches['Form Diffrence'] = ''
+    season_string = ''
+    for ind in df_matches.index:
+        if str(df_matches['Season'][ind]) != season_string:
+            season = df_matches['Season'][ind]
+            season_string = str(season)
+            df_teams = pd.read_csv('Teams Values\\valuesSezon'+season_string+'.csv')
+            teams = df_teams['Team'].to_numpy()
+            form = {}
+            for team in teams:
+                form[team] = []  
+                form[team].append(0)
+                
+
+        home_team = df_matches['HomeTeam'][ind]
+        away_team = df_matches['AwayTeam'][ind]
+
+        df_matches['HT Form'][ind] = sum(form[home_team])
+        df_matches['AT Form'][ind] = sum(form[away_team])
+        df_matches['Form Diffrence'][ind] = int(df_matches['HT Form'][ind]) - int(df_matches['AT Form'][ind])
+      
+        if df_matches['FTR'][ind] == 'H':
+            if len(form[home_team]) >= 6:
+                form[home_team].pop(0)
+            form[home_team].append(3)
+
+            if len(form[away_team]) >= 6:
+                form[away_team].pop(0)
+            form[away_team].append(0) 
+
+        elif df_matches['FTR'][ind] == 'D':
+            if len(form[home_team]) >= 6:
+                form[home_team].pop(0)
+            form[home_team].append(1)
+            
+            if len(form[away_team]) >= 6:
+                form[away_team].pop(0)
+            form[away_team].append(1)
+        else:
+            if len(form[home_team]) >= 6:
+                form[home_team].pop(0)
+            form[home_team].append(0)
+            
+            if len(form[away_team]) >= 6:
+                form[away_team].pop(0)
+            form[away_team].append(3) 
+
+    df_matches.to_csv("ConcatenatedFiles.csv", index=False)    

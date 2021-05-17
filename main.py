@@ -1,15 +1,22 @@
 import prepare_data as data
 import pandas as pd
 
+# error 1522 line in ConcatenatedFiles
 #data.prepare_data()
-#data.count_diffrences() 
+
+#data.count_diffrences()
+#data.countForm()
 #data.mergeAwithD()
+
+
 
 dataset = pd.read_csv("ConcatenatedFiles.csv")
 
 attributes = dataset.drop('FTR', axis = 1)
 attributes = attributes.drop('HomeTeam', axis = 1)
 attributes = attributes.drop('AwayTeam', axis = 1)
+attributes = attributes.drop('HT Form', axis = 1)
+attributes = attributes.drop('AT Form', axis = 1)
 labels = dataset["FTR"]
 
 #splitting data 60:20:20, train:validate:test
@@ -30,7 +37,7 @@ from prunning import find_ccp_alpha
 path = classifier.cost_complexity_pruning_path(attributes_train, labels_train)
 alphas = path['ccp_alphas']
 
-#find_ccp_alpha(alphas, attributes_train, labels_train, attributes_validate, labels_validate)
+find_ccp_alpha(alphas, attributes_train, labels_train, attributes_validate, labels_validate)
 
 classifier = classifier.fit(attributes_train, labels_train)
 
