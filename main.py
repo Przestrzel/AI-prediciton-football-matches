@@ -21,7 +21,7 @@ labels = dataset["FTR"]
 
 #testing criterion
 #from criterion import create_graph
-#create_graph(attributes, labels)
+#reate_graph(attributes, labels)
 
 
 #splitting data 60:20:20, train:validate:test

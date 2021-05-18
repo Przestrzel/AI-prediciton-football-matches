@@ -9,8 +9,8 @@ from sklearn.model_selection import train_test_split as split
 
 def create_graph(attributes, labels):
     acc_entropy_plain, acc_gini_plain, acc_entropy_prunning, acc_gini_prunning = [], [], [], []
-
-    for _ in range(20):
+    probes = 250
+    for _ in range(probes):
         attr_train, attr_validate, labels_train, labels_validate = split(attributes, labels, test_size = 0.3)
         classifier = DecisionTreeClassifier(criterion="entropy")
         classifier.fit(attr_train, labels_train)
@@ -18,7 +18,7 @@ def create_graph(attributes, labels):
         labels_predict_validate = classifier.predict(attr_validate)
         acc_entropy_plain.append(accuracy_score(labels_validate, labels_predict_validate))
 
-    for _ in range(20):
+    for _ in range(probes):
         attr_train, attr_validate, labels_train, labels_validate = split(attributes, labels, test_size = 0.3)
         classifier = DecisionTreeClassifier(criterion="entropy", ccp_alpha=0.01)
         classifier.fit(attr_train, labels_train)
@@ -26,7 +26,7 @@ def create_graph(attributes, labels):
         labels_predict_validate = classifier.predict(attr_validate)
         acc_entropy_prunning.append(accuracy_score(labels_validate, labels_predict_validate))
 
-    for _ in range(20):
+    for _ in range(probes):
         attr_train, attr_validate, labels_train, labels_validate = split(attributes, labels, test_size = 0.3)
         classifier = DecisionTreeClassifier(criterion="gini")
         classifier.fit(attr_train, labels_train)
@@ -34,7 +34,7 @@ def create_graph(attributes, labels):
         labels_predict_validate = classifier.predict(attr_validate)
         acc_gini_plain.append(accuracy_score(labels_validate, labels_predict_validate))
 
-    for _ in range(20):
+    for _ in range(probes):
         attr_train, attr_validate, labels_train, labels_validate = split(attributes, labels, test_size = 0.3)
         classifier = DecisionTreeClassifier(criterion="gini", ccp_alpha=0.01)
         classifier.fit(attr_train, labels_train)
@@ -49,6 +49,5 @@ def create_graph(attributes, labels):
     df["Gini"] = acc_gini_plain
     df["Gini prunning"] = acc_gini_prunning
     
-    print(pd.melt(df))
     sns.boxplot(x="variable", y="value", data=pd.melt(df))   
     plt.savefig("graphs/criterion.png")
