@@ -8,7 +8,6 @@ import pandas as pd
 #data.countForm()
 #data.mergeAwithD()
 
-
 dataset = pd.read_csv("ConcatenatedFiles.csv")
 
 attributes = dataset.drop('FTR', axis = 1)
@@ -18,6 +17,12 @@ attributes = attributes.drop('HT Form', axis = 1)
 attributes = attributes.drop('AT Form', axis = 1)
 attributes = attributes.drop('Season', axis = 1)
 labels = dataset["FTR"]
+
+
+#testing criterion
+#from criterion import create_graph
+#create_graph(attributes, labels)
+
 
 #splitting data 60:20:20, train:validate:test
 from sklearn.model_selection import train_test_split as split
@@ -32,6 +37,7 @@ from sklearn.tree import DecisionTreeClassifier
 
 classifier = DecisionTreeClassifier(criterion="entropy", ccp_alpha=0.01)
 
+
 #testing prunning alpha
 from prunning import find_ccp_alpha
 path = classifier.cost_complexity_pruning_path(attributes_train, labels_train)
@@ -42,6 +48,7 @@ alphas = path['ccp_alphas']
 classifier = classifier.fit(attributes_train, labels_train)
 
 labels_prediction = classifier.predict(attributes_test)
+
 
 #Raport
 from sklearn.metrics import classification_report
@@ -58,9 +65,3 @@ for ind in res.index:
         to_drop.append(ind)
 res = res.drop(res.index[to_drop])
 res.to_csv('picked matches.csv')
-
-#Making visual tree
-#import matplotlib.pyplot as plt
-#from sklearn import tree
-#tree.plot_tree(classifier.fit(attributes_train, labels_train))
-#plt.savefig("tree.png")

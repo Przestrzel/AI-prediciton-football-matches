@@ -4,6 +4,7 @@ import seaborn as sns
 from sklearn.metrics import accuracy_score
 import numpy as np
 
+
 # find best ccp_alpha
 def find_ccp_alpha(alphas, attributes_train, labels_train, attributes_validate, labels_validate):
     accuracy_train, accuracy_validate = [], []
