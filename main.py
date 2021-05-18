@@ -9,7 +9,6 @@ import pandas as pd
 #data.mergeAwithD()
 
 
-
 dataset = pd.read_csv("ConcatenatedFiles.csv")
 
 attributes = dataset.drop('FTR', axis = 1)

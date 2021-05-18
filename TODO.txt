@@ -1,6 +1,3 @@
-- algorytm na pruning z ccp_alpha:
-    ccp_alpha start: 0.001 skok co 0.00001 
-    średnia z X prób dla każdego
-    testujemy na zbiorze walidacyjnym
+-box and whisker plot 
 
--kombinować z danymi
+-demo
