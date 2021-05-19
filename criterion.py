@@ -20,7 +20,7 @@ def create_graph(attributes, labels):
 
     for _ in range(probes):
         attr_train, attr_validate, labels_train, labels_validate = split(attributes, labels, test_size = 0.3)
-        classifier = DecisionTreeClassifier(criterion="entropy", ccp_alpha=0.01)
+        classifier = DecisionTreeClassifier(criterion="entropy", ccp_alpha=0.025)
         classifier.fit(attr_train, labels_train)
         
         labels_predict_validate = classifier.predict(attr_validate)
@@ -36,7 +36,7 @@ def create_graph(attributes, labels):
 
     for _ in range(probes):
         attr_train, attr_validate, labels_train, labels_validate = split(attributes, labels, test_size = 0.3)
-        classifier = DecisionTreeClassifier(criterion="gini", ccp_alpha=0.01)
+        classifier = DecisionTreeClassifier(criterion="gini", ccp_alpha=0.025)
         classifier.fit(attr_train, labels_train)
         
         labels_predict_validate = classifier.predict(attr_validate)
