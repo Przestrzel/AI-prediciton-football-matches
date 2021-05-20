@@ -37,7 +37,6 @@ def count_diffrences():
     df_matches = pd.read_csv('ConcatenatedFiles.csv')
     df_matches['HT VAL/AT VAL'] = ""
     for ind in df_matches.index:
-        print(ind)
         season = df_matches['Season'][ind]
         season_string = str(season)
         home_team = df_matches['HomeTeam'][ind]
