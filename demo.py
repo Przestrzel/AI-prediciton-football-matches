@@ -68,7 +68,7 @@ class App(QWidget):
         
         self.myListWidget1.setIconSize(QtCore.QSize(50,50))
         self.myListWidget_away_team.setIconSize(QtCore.QSize(100,100))
-        self.myListWidget_home_team.setIconSize(QtCore.QSize(100,100))
+        self.myListWidget_home_team.setIconSize(QtCore.QSize(100,100))        
 
         self.home_team = QLabel('Home Team', self)
         self.home_team.move(40, 220)
@@ -81,15 +81,6 @@ class App(QWidget):
 
         print(self.myListWidget1.count())
 
-        # gituwa totalna, jutro dokoncze
-        items = []
-        for x in range(self.myListWidget1.count()-1):
-            items.append(self.myListWidget1.item(x))
-        
-        for item in items:
-            print(item.text())
-        ##########
-
         self.initUI()
     
     def iterAllItems(self, l):
@@ -101,16 +92,21 @@ class App(QWidget):
         self.setGeometry(self.left, self.top, self.width, self.height)
         
         button = QPushButton('Predict the winner!', self)
-        button.setToolTip('This is an example button')
+        
         button.move(260,300)
         button.setMinimumSize(200,30)
-        button.clicked.connect(self.on_click)
+        button.clicked.connect(self.predictButton)
                                                                             
         self.show()
 
     @pyqtSlot()
-    def on_click(self):
-        print('PyQt5 button click')
+    def predictButton(self):
+        items = []
+        for x in range(self.myListWidget_home_team.count()):
+            items.append(self.myListWidget_home_team.item(x))
+        
+        for item in items:
+            print(item.text())
 
 
 
