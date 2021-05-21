@@ -25,4 +25,7 @@ def find_ccp_alpha(alphas, attributes, labels):
     sns.lineplot(y=accuracy_train, x=alphas, label="Train accuracy")
     sns.lineplot(y=accuracy_validate, x=alphas, label="Validate accuracy")
     plt.xticks(ticks=np.arange(0.00, 0.10, 0.01))
+    plt.xlabel("ccp_alpha")
+    plt.ylabel("Wartość precyzji")
+    plt.title("Wykres zależności precyzji od ccp_alpha")
     plt.savefig("graphs/prunning.png")

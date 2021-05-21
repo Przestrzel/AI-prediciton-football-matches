@@ -31,14 +31,14 @@ attributes_train, attributes_validate, labels_train, labels_validate = split(att
 #making classifier
 from sklearn.tree import DecisionTreeClassifier
 
-classifier = DecisionTreeClassifier(criterion="entropy", ccp_alpha=0.01)
+classifier = DecisionTreeClassifier(criterion="entropy", ccp_alpha=0.025)
 
 #testing prunning alpha
 from prunning import find_ccp_alpha
 path = classifier.cost_complexity_pruning_path(attributes_train, labels_train)
 alphas = path['ccp_alphas']
 
-#find_ccp_alpha(alphas, attributes_train, labels_train, attributes_validate, labels_validate)
+find_ccp_alpha(alphas, attributes, labels)
 
 classifier = classifier.fit(attributes_train, labels_train)
 
